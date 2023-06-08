@@ -1,0 +1,4 @@
+name: PlayerStats
+main: it.tristana.playerstats.Main
+version: 1.0
+author: Massimiliano Micol
